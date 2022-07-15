@@ -36,7 +36,7 @@ const Bio = () => {
         className="bio-avatar"
         layout="fixed"
         formats={["auto", "webp", "avif"]}
-        src="../images/profile-pic.png"
+        src="https://62c3dbde3007431c955cf206--vocal-yeot-74e61e.netlify.app/images/profile-pic.png"
         width={50}
         height={50}
         quality={95}
