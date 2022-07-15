@@ -6,7 +6,7 @@ module.exports = {
       summary: `who lives and works in Chiang Mai, Thailand building useful things.`,
     },
     description: `Posting about Front End Development, WordPress and sustainable website design.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://62c3dbde3007431c955cf206--vocal-yeot-74e61e.netlify.app/`,
     social: {
       twitter: `savphill`,
     },
